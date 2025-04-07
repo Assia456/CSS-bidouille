@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+margin: 0;
+padding:0;
+box-sizing: border-box;
+}
+
+
+.btn{ /*créer la forme du bouton + la typo*/
+    color:black;
+    padding: 11px 21px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 11px 21px;
+
+}
+
+.vert{
+    background-color: #61ff7b;
+    border-radius: 50px;
+    font-weight: 500px;
+
+}
+
+.bleu{
+    background-color:#1398a0;
+    color: white;
+    
+}
+
+.bordure{
+    border-radius: 0px 20px;
+}
+
+.inter {
+    font-family: "Inter"; sans-serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.regularWhite {
+    font-weight: 100;
+}
